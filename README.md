@@ -10,7 +10,7 @@ algorithm fail to perform such task in some cases. For example:
 - `az-IR` maps to `az` (default for `az-Latn-AZ`), not to the correct
   `az-Arab-IR`.
 - `en-Latn-GB` and `en-Latn-IN` map to `en` (default for `en-Latn-US`), not to
-  the correct `en-Latn-GB`.
+  the correct `en-GB` and `en-IN` respectively.
 - `ha-CM` and `ha-SD` map to `ha` (default for `ha-Latn-NG`), not the correct
   `ha-Arab-*`.
 - `kk-CN`, `kk-IR`, and `kk-MN` map to `kk` (default for `kk-Cyrl-KZ`), not the
