@@ -89,12 +89,16 @@ issues and more details can be found on:
 - [Cldrjs's Lookup Matcher][]
 - [Globalize issue #357][]
 - [ICU issue #11404][]
+- [Improving Locale/LanguageMatcher by Mark Davis][]
+- [BestFitAvailableLocale in ibm-js/ecma402][]
 
 [Fixing Inheritance by Mark Davis]: https://docs.google.com/document/d/1qZwEVb4kfODi2TK5f4x15FYWj5rJRijXmSIg5m6OH8s/edit
 [Cldrjs issue #17]: https://github.com/rxaviers/cldrjs/issues/17
 [Cldrjs's Lookup Matcher]: https://github.com/rxaviers/cldrjs/blob/master/doc/bundle_lookup_matcher.md#implementation-details
 [Globalize issue #357]: https://github.com/jquery/globalize/issues/357
 [ICU issue #11404]: http://bugs.icu-project.org/trac/ticket/11404
+[Improving Locale/LanguageMatcher by Mark Davis]: https://docs.google.com/document/d/1wRfFjvg80lU6bx6kaq25BBiNuQaA7IIiu6h5qG63b0s/edit
+[BestFitAvailableLocale in ibm-js/ecma402]: https://github.com/ibm-js/ecma402/blob/4754edfd2564f59ec7f71d5654abe6aa84b1f9c6/impl/common.js#L398-L413
 
 ### Fix
 
